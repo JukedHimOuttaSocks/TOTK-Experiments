@@ -1,5 +1,5 @@
 """
-Analysis of pendulum with air resistance
+Analysis of Metronome motion
 
 Created on Sat Oct 28 22:28:12 2023
 
