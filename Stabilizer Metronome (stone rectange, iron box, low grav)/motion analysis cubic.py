@@ -1,6 +1,9 @@
 """
 Analysis of Metronome motion
 
+For best use, open with an editor that can run code blocks seperately
+If you run the whole thing at once you're gonna have a bad time
+
 Created on Sat Oct 28 22:28:12 2023
 
 @author: Juke
