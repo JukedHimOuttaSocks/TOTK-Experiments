@@ -229,7 +229,7 @@ ani = animation.FuncAnimation(fig, animate, interval=30, frames=theta.size, repe
 
 dt = 0.03333333
 ts = np.arange(0, t[-1], dt)
-theta, omega = DESol(ts, A, B, th0, w0)
+theta, omega = DESol(ts, A, B, C, th0, w0)
 
 x = []
 y = []
